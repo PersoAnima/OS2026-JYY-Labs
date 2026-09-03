@@ -1,0 +1,5 @@
+#!/bin/sh
+printf 'Status: 403 Forbidden\r\n'
+printf 'Content-Type: text/plain\r\n'
+printf '\r\n'
+printf 'denied\n'
